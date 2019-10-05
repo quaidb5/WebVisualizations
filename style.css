@@ -1,0 +1,18 @@
+/* style.css */
+
+
+.text {
+    font-size: 20px;
+    color: purple; 
+}
+
+.main {
+    position: absolute;
+}
+
+.haha {
+    padding-top: 25px;
+    padding-left: 50px;
+    padding-right: 150px;
+    padding-bottom: 50px
+}
